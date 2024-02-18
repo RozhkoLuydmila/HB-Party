@@ -56,18 +56,20 @@ export const DressCode = () => {
             <CardContent sx={{backgroundColor: "#070707", color: "#ffff"}}>
                 <Typography gutterBottom variant="h4" component="div" fontWeight={600} sx={{fontFamily: "'Poiret One', cursive", color:"#b30304"}}>
                   ДРЕСС-КОД/
-                  INSTASAMCA-PARTY
+                  INSTASAMKA-PARTY
                 </Typography>
                 <Typography variant="body1" sx={{fontFamily: "'Poiret One', cursive"}}>
                     НО, зная вашу любовь к разным музыкальным исполнителям, пойму,
                     если вы приедете в стиле:
-                    Короля и Шута,
-                    Федука,
-                    Мияги,
-                    ATL,
-                    Макана,
-                    Михаила Круга.
-                    <br/>Буду рада, если вы будете соответствовать тематике праздника!
+                    <ul>
+                      <li>Короля и Шута</li>
+                      <li>Федука</li>
+                      <li>Мияги</li>
+                      <li>ATL</li>
+                      <li>Макана</li>
+                      <li>Михаила Круга</li>
+                    </ul>
+                    Буду рада, если вы будете соответствовать тематике праздника!
                 </Typography>
                 <Box>
                     <ImageList

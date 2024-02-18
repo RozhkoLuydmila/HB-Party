@@ -23,8 +23,11 @@ export const Date = () => {
                     <Typography variant="h7">
                         КОГДА?
                     </Typography>
-                    <Typography variant="h6" sx={{marginTop: "3em", fontFamily: "'Poiret One', cursive"}}>
+                    <Typography variant="h6" sx={{marginTop: "1.5em", fontFamily: "'Poiret One', cursive"}}>
                         16 МАРТА 2024
+                    </Typography>
+                    <Typography variant="h6" sx={{marginTop: "1.5em", fontFamily: "'Poiret One', cursive"}}>
+                        СУББОТА
                     </Typography>
                 </CardContent>
             </Grid>
