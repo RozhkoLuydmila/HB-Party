@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/HB-Party/static/css/main.66f59d81.css",
+    "main.js": "/HB-Party/static/js/main.bce7a927.js",
+    "static/media/video2.mp4": "/HB-Party/static/media/video2.cfb48406fa28194a5e48.mp4",
+    "static/media/body3.jpeg": "/HB-Party/static/media/body3.28f9f0984b4318143e8c.jpeg",
+    "static/media/body1.jpeg": "/HB-Party/static/media/body1.f748ecb797d1de4b18fc.jpeg",
+    "static/media/body4.jpeg": "/HB-Party/static/media/body4.003d0efc039aa5ca0bef.jpeg",
+    "static/media/samka6.jpeg": "/HB-Party/static/media/samka6.9799c123a13c107b76a8.jpeg",
+    "static/media/body5.jpeg": "/HB-Party/static/media/body5.eacc3ed6566c79225232.jpeg",
+    "static/media/samka4.jpeg": "/HB-Party/static/media/samka4.106e8545d69f0df89902.jpeg",
+    "static/media/samka9.jpeg": "/HB-Party/static/media/samka9.be5b71a049e5f90047b4.jpeg",
+    "static/media/samka3.jpeg": "/HB-Party/static/media/samka3.cbef2bb56b28939d417e.jpeg",
+    "static/media/samka2.jpeg": "/HB-Party/static/media/samka2.f70e0839806a8440ef7c.jpeg",
+    "static/media/PoiretOne-Regular.ttf": "/HB-Party/static/media/PoiretOne-Regular.9bf109e97f6294c6fe2b.ttf",
+    "static/media/samka5.jpeg": "/HB-Party/static/media/samka5.cb796ef2144adee76e17.jpeg",
+    "static/media/body6.jpeg": "/HB-Party/static/media/body6.d690700891126e31d397.jpeg",
+    "static/media/balloons.png": "/HB-Party/static/media/balloons.24e78b3bd3bc0251a070.png",
+    "index.html": "/HB-Party/index.html",
+    "main.66f59d81.css.map": "/HB-Party/static/css/main.66f59d81.css.map",
+    "main.bce7a927.js.map": "/HB-Party/static/js/main.bce7a927.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66f59d81.css",
+    "static/js/main.bce7a927.js"
+  ]
+}
